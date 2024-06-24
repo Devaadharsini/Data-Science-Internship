@@ -54,5 +54,3 @@ Dataset link : https://archive.ics.uci.edu/dataset/222/bank+marketing
 -Predicted customer purchases using unseen data
 
 
-4.Created a count plot showing survival counts by gender
-5.Developed a bar plot representing the survival rate of males and females
